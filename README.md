@@ -4,4 +4,4 @@
 <br/>Entre na pasta do plugin woocommerce e faça um backup do arquivo order-details.php e troque ele por este que está no repositório.</p>
 <br/>
 <img src="images/exemplo.jpg" width="491"/>
-<h2>No wp-config adicione um define com o numero da loja ex: [define]( define('WHATSAPP','5511900000000');)<h2/>
+<h2>No wp-config adicione um define com o numero da loja ex: define('WHATSAPP','5511900000000');<h2/>
