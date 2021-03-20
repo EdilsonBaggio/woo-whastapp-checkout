@@ -1,7 +1,6 @@
 
 <h3>Envie dados da compra para o vendedor pelo whatsapp.</h3>
-<p>Vá até p painel do wordpress e clique em woocommerce, crie os campos no CHECKOUT FORM, adicione os seguintes campos</p>
-<br/>
+<p>Vá até p painel do wordpress e instale o plugin Checkout Field Editor for WooCommerce depois clique em woocommerce, crie os campos no CHECKOUT FORM, adicione os seguintes campos</p>
 <strong>Important para o funcionamento, crie os seguintes campos</strong>
 <br/>
 <p>
@@ -19,7 +18,7 @@
 * E-mail <br/>
 * Forma de Pagamento, nesse voce vai incluir um dropdown - dinheiro, débito, crédito etc. Vai do que for melhor pra você.<br/>
 * Observações
-</p>
+</p><br/>
 <p>Abaixo um exemplo das informaçoes do produto e dados do cliênte enviadas pelo whatsapp. 
 <br/>Entre na pasta do plugin woocommerce e faça um backup do arquivo order-details.php e troque ele por este que está no repositório.</p>
 <br/>
